@@ -60,3 +60,19 @@
 
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on AI, Machine Learning, Open Source, and Software Development projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agnimitra-dey-97312237a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:debrani.prl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>

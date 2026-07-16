@@ -73,47 +73,11 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 AI Resume Screener
-AI-powered resume screening using AI & Machine Learning.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debraniprl-wq&repo=AI-Resume-Screener&theme=tokyonight)](https://github.com/debraniprl-wq/AI-Resume-Screener)
 
----
 
-### 🧠 Neurodesk
-An AI-based productivity and automation project.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debraniprl-wq&repo=Neurodesk&theme=tokyonight)](https://github.com/debraniprl-wq/Neurodesk)
-
----
-
-### 📊 ForecastIQ
-Forecasting and analytics application.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debraniprl-wq&repo=ForecastIQ&theme=tokyonight)](https://github.com/debraniprl-wq/ForecastIQ)
-
----
-
-### 🏢 AgencyFlow CRM
-CRM platform for agency workflow management.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debraniprl-wq&repo=AgencyFlow-CRM&theme=tokyonight)](https://github.com/debraniprl-wq/AgencyFlow-CRM)
-
----
-
-### 📈 LeadFlow CRM
-Lead management and customer relationship platform.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debraniprl-wq&repo=LeadFlow-CRM&theme=tokyonight)](https://github.com/debraniprl-wq/LeadFlow-CRM)
-
----
-
-### 🛡️ Safer Campus App
-A student safety application for campus environments.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debraniprl-wq&repo=safer-campus-app&theme=tokyonight)](https://github.com/debraniprl-wq/safer-campus-app)
 
 ## 💬 Let's Connect
 

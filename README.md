@@ -8,6 +8,10 @@
 
 <h1 align="center">Hi 👋, I'm Agnimitra Dey</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=debraniprl-wq&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <h3 align="center">B.Tech Electronics & Communication Engineering Student</h3>
 
 <p align="center">

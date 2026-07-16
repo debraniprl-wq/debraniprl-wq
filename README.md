@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/debraniprl-wq/debraniprl-wq/main/banner.png" width="100%" alt="Agnimitra Dey Banner">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering+Student;Artificial+Intelligence+Learner;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Software+Development+%7C+Embedded+Systems;Open+Source+Learner" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Agnimitra Dey</h1>
 
 <h3 align="center">B.Tech Electronics & Communication Engineering Student</h3>

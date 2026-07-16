@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1E3A8A,100:2563EB&height=240&section=header&text=Agnimitra%20Dey&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20•%20AI%20%26%20ML%20Learner%20•%20Data%20Analytics&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Agnimitra%20Dey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Student%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Agnimitra Dey</h1>

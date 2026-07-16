@@ -28,25 +28,16 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- C
-- Python
-- Java
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,vscode,firebase" />
+</p>
 
-**Web**
-- HTML
-- CSS
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-
-**Learning**
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-Learning-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-ECE-red?style=for-the-badge"/>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!

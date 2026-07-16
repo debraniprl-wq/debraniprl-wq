@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Agnimitra%20Dey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Student%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=58&descSize=18" />
+  <img src="https://raw.githubusercontent.com/debraniprl-wq/debraniprl-wq/main/banner.png" width="100%" alt="Agnimitra Dey Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Agnimitra Dey</h1>

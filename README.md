@@ -47,4 +47,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debraniprl-wq&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=debraniprl-wq&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
 ⭐ Thanks for visiting my profile!

@@ -28,6 +28,14 @@
 - 🚀 Passionate about building real-world projects and continuously improving my skills
 - 📚 Always exploring new technologies
 
+## 🎯 Current Focus
+
+- 🤖 Building AI & Machine Learning projects
+- 🌐 Improving Full-Stack Development skills
+- 📊 Learning Data Analytics and Data Visualization
+- 💻 Strengthening problem-solving through real-world projects
+- 🌱 Exploring Open Source contributions
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -51,6 +59,16 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debraniprl-wq&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+## 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🤖 **AI Resume Screener** | AI-powered resume analysis, candidate ranking & skill gap detection. | 🔗 [Demo](https://futureml03-wbcm7xwasqfv8jkngwgxv4.streamlit.app/) |
+| 📈 **ForecastIQ** | Machine learning-based sales forecasting with interactive visualizations. | 🔗 [Demo](https://futureml01-4tpithkwzvmrdvuy3mcaij.streamlit.app/) |
+| 👥 **LeadFlow CRM** | Full-stack React CRM for managing client leads and follow-ups. | 🔗 [Demo](https://future-fs-02-mu-bice.vercel.app/login) |
+| 🛡️ **Safer Campus App** | Campus safety platform with incident reporting and emergency management. | 🔗 [Demo](https://safer-campus-app.vercel.app/) |
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -72,10 +90,6 @@
 ⭐ Thanks for visiting my profile!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=debraniprl-wq&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 
 ## 💬 Let's Connect
